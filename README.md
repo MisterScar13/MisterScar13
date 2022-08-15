@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afternath&label=Profile%20views&color=0e75b6&style=flat" alt="afternath" /> </p>
 
 
-- 🔭 I’m currently working on **PhenixHosting**
+- 🔭 I’m currently working on **.**
 
 - 🌱 I’m currently learning **Java, Bukkit.**
 
-- 🤝 I’m looking for help with **PhenixHosting**
+- 🤝 I’m looking for help with **.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AfterNath?tab=repositories](https://github.com/AfterNath?tab=repositories)
 
-- 💬 Ask me about **Python & HTML**
+- 💬 Ask me about **Python & Web**
 
-- 📫 How to reach me **AfterNath#8086**
+- 📫 How to reach me **'𝙼𝚒𝚜𝚝𝚎𝚛𝚂𝚌𝚊𝚛#8519**
 
 
 <h3 align="left">Spotify Listening:</h3>
