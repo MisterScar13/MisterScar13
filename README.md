@@ -19,7 +19,7 @@
 
 <h3 align="left">Spotify Listening:</h3>
 
-[![Spotify](https://spotifyrm.vercel.app/api/spotify)](https://open.spotify.com/user/AfterNath)
+[![Spotify](https://spotifyrm.vercel.app/api/spotify)]([https://open.spotify.com/user/AfterNath](https://open.spotify.com/user/sglr8vwain6ndttz9dxcbqa7x))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
