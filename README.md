@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AfterNath?tab=repositories](https://github.com/AfterNath?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/MisterScar13?tab=repositories](https://github.com/MisterScar13?tab=repositories)
 
 - 💬 Ask me about **Python & Web**
 
